@@ -53,11 +53,11 @@ suggesting low demand or pricing issues
 
 ### 2. Quantity Per Product and Order Status
 - **Chair** was the highest selling product with **562 units sold**
-- **Phone** recorded the lowest units sold at **411** — 
+- **Phone** recorded the lowest units sold at **411**, this is
 consistent with its low revenue performance
-- Only **231 orders** were successfully delivered out of 1,200 — 
+- Only **231 orders** were successfully delivered out of 1,200, that is 
 less than 20% delivery success rate
-- **250 orders were cancelled** — the highest across all statuses
+- **250 orders were cancelled** tis is the highest across all statuses
 - **247 orders were returned** raising concerns about 
 product quality or customer satisfaction
 - **237 orders are pending** and **235 are shipped**
@@ -70,7 +70,7 @@ product quality or customer satisfaction
 - **Instagram** was the most effective customer acquisition 
 channel bringing in **259 customers**
 - **Direct Referral** was the weakest channel with only 
-**222 customers** — suggesting an opportunity to build 
+**222 customers** this is suggesting an opportunity to build 
 a referral incentive program
 
 ![Customer Acquisation by referral source](Customer%20Acquisation%20by%20referral%20source.jpg)
