@@ -31,6 +31,7 @@ Items In Cart, Coupon Code, Referral Source, Total Unit Price
 | Max    | 5        | $700       |  10           | $3,456      |
 | Sum    | 1200     | $427,695   |  1200         | $1,264,762  |
 
+
 ![Summary Table](Summary%20Table.jpg)
 
 ---
@@ -47,6 +48,7 @@ suggesting low demand or pricing issues
 **258 transactions**
 - **Gift Card** was the least used payment method at **230 orders**
 
+
 ![Revenue by Product and Payment Method per Order](Revenue%20by%20Product%20and%20Payment%20method%20per%20Order.jpg)
 
 ---
@@ -62,6 +64,7 @@ less than 20% delivery success rate
 product quality or customer satisfaction
 - **237 orders are pending** and **235 are shipped**
 
+
 ![Quantity per Product and Order Status](Quantity%20per%20Product%20and%20Order%20Status.jpg)
 
 ---
@@ -73,6 +76,7 @@ channel bringing in **259 customers**
 **222 customers** this is suggesting an opportunity to build 
 a referral incentive program
 
+
 ![Customer Acquisation by referral source](Customer%20Acquisation%20by%20referral%20source.jpg)
 
 ---
@@ -83,6 +87,7 @@ a referral incentive program
 - This seasonal pattern suggests the business should plan 
 inventory and marketing campaigns around peak and 
 low periods accordingly
+
 
 ![Monthly Sales Trend](Monthly%20Sales%20Trend.jpg)
 
@@ -96,6 +101,7 @@ in the Total Unit Price column out of 1,200 transactions
 **noise** — data points clustering near the upper bound 
 rather than genuine anomalies
 - This confirms overall **data integrity** across the dataset
+
 
 ![Outlier Metrics](Outlier%20Metrics.jpg)
 ![Outlier](Outlier.jpg)
@@ -137,4 +143,6 @@ promotional campaigns ahead of low periods.
 ---
 
 ## Dataset
+
+Download Full Dataset showing Trends and full calculations here:
 [Download Dataset](Dataset%20for%20Data%20Analytics.xlsx)
