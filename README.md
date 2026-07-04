@@ -1,6 +1,5 @@
-# Decodelabs-Project-2-Exploratory-Data-Analysis
+# Decodelabs-Project-2-Exploratory-Data-Analysis (EDA)
 
-# DecodeLabs Project 2: Exploratory Data Analysis (EDA)
 
 **Tool Used:** Microsoft Excel  
 **Dataset:** Sales Transaction Dataset  
