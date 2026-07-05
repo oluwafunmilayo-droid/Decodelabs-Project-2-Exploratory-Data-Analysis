@@ -1,7 +1,7 @@
 # Decodelabs-Project-2-Exploratory-Data-Analysis (EDA)
 
 
-**Tool Used:** Microsoft Excel  
+**Tool Used:** Microsoft Excel
 **Dataset:** Sales Transaction Dataset  
 **Total Records:** 1,200 rows  
 **Internship:** DecodeLabs 
