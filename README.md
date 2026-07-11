@@ -249,7 +249,7 @@ Donut Chart, Treemap, Funnel Chart)
 ---
 
 ## Dashboard Preview
-![Sales Performance Dashboard](sales%20performance.png)
+![Sales Performance Dashboard](sales%20performance.jpg)
 
 ---
 
@@ -265,11 +265,11 @@ visual summary
 ---
 
 ## About This Project
-I am Elizabeth Atoyeje — a Medical Physiology graduate
+I am Elizabeth Atoyeje, a Medical Physiology graduate
 transitioning into data analytics, currently interning
 at DecodeLabs. This project demonstrates my ability to
 take raw sales data all the way from cleaning to a
-business-ready dashboard using the same tools analysts
+business ready dashboard using the same tools analysts
 use on the job every day.
 
 - Portfolio: [bit.ly/ElizabethAtoyejePortfolio](https://bit.ly/ElizabethAtoyejePortfolio)
