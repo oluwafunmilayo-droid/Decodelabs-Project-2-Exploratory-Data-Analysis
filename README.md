@@ -17,7 +17,9 @@ transactions and extract meaningful business insights about
 product performance, customer behavior, payment patterns,
 and order fulfillment.
 
-**Headline Finding:** Total revenue of **$1,264,762** was
+**Headline Finding:
+
+** Total revenue of **$1,264,762** was
 generated across 1,200 orders but with only **231 successful
 deliveries** and **497 cancellations and returns combined**,
 the business has a critical fulfillment problem that is
