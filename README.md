@@ -4,7 +4,7 @@
 **Tools Used:** Microsoft Excel, Power BI
 **Dataset:** Sales Transaction Dataset
 **Total Records:** 1,200 rows
-**Internship:** DecodeLabs TechCrush Cohort 6 — Batch 2026
+**Internship:** DecodeLabs 2026
 
 ## Project Overview
 This project is a full sales performance analysis
