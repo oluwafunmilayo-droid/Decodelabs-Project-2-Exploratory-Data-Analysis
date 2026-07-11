@@ -1,4 +1,4 @@
-# DecodeLabs Project 2: Sales Performance Analysis
+# Sales Performance Analysis
 ## Exploratory Data Analysis with Power BI Dashboard
 
 **Tools Used:** Microsoft Excel, Power BI
