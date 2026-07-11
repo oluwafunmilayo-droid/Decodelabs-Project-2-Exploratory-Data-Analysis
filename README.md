@@ -48,7 +48,7 @@ to answer that question with precision.
 | [Monthly Sales Trend.jpg](Monthly%20Sales%20Trend.jpg) | Monthly sales trend line chart |
 | [Outlier Metrics.jpg](Outlier%20Metrics.jpg) | IQR outlier calculation table |
 | [Outlier.jpg](Outlier.jpg) | Flagged outlier results |
-| [sales performance.png](sales%20performance.png) | Final Power BI dashboard |
+| [sales performance.png](sales%20performance.jpg) | Final Power BI dashboard |
 
 ---
 
