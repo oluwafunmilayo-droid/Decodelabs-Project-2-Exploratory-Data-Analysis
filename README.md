@@ -1,9 +1,12 @@
 # DecodeLabs Project 2: Sales Performance Analysis
-## End-to-End Exploratory Data Analysis with Power BI Dashboard
+## Exploratory Data Analysis with Power BI Dashboard
 
 **Tools Used:** Microsoft Excel, Power BI
+
 **Dataset:** Sales Transaction Dataset
+
 **Total Records:** 1,200 rows
+
 **Internship:** DecodeLabs 2026
 
 ## Project Overview
