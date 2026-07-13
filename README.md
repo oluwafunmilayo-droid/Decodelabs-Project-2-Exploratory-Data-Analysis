@@ -272,6 +272,6 @@ take raw sales data all the way from cleaning to a
 business ready dashboard using the same tools analysts
 use on the job every day.
 
-- Portfolio: [bit.ly/ElizabethAtoyejePortfolio](https://bit.ly/ElizabethAtoyejePortfolio)
+- Portfolio: [bit.ly/bit.ly/Elizabeth_DataAnalytics_Portfolio](https://bit.ly/Elizabeth_DataAnalytics_Portfolio)
 - LinkedIn: [linkedin.com/in/atoyeje-elizabeth03](https://linkedin.com/in/atoyeje-elizabeth03)
 - Email: atoyejeelizabeth03@gmail.com
